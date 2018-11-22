@@ -6,9 +6,6 @@ import android.graphics.Paint;
 
 import java.util.LinkedList;
 
-/**
- * Created by John on 2017/8/26.
- */
 
 public class Branch {
     private static final int BRANCH_COLOR = Color.rgb(35, 31, 32);

@@ -16,7 +16,7 @@
         android:layout_height="match_parent"
         android:text="@string/tips"
         android:textColor="#ff0000"
-        android:textSize="16sp"
+        android:textSize="36sp"
         android:visibility="gone"/>
 
 </FrameLayout>

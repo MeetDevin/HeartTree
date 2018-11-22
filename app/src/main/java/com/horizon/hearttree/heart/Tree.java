@@ -10,10 +10,6 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
-/**
- * Created by John on 2017/8/27.
- */
-
 public class Tree {
     // bloom params
     private static final int BLOOM_NUM = 320;

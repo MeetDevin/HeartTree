@@ -3,9 +3,6 @@ package com.horizon.hearttree.heart;
 
 import android.graphics.Path;
 
-/**
- * Created by John on 2017/8/26.
- */
 
 public class Heart {
     private static final Path PATH = new Path();

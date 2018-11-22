@@ -4,9 +4,6 @@ import android.graphics.Paint;
 
 import java.util.Random;
 
-/**
- * Created by John on 2017/8/27.
- */
 
 public class CommonUtil {
     private static final Random RANDOM = new Random(System.currentTimeMillis());

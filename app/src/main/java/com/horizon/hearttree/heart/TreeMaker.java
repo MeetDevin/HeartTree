@@ -2,9 +2,6 @@ package com.horizon.hearttree.heart;
 
 import java.util.List;
 
-/**
- * Created by John on 2017/8/26.
- */
 public class TreeMaker {
 
     private static float r;

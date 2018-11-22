@@ -4,9 +4,6 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 
-/**
- * Created by John on 2017/8/26.
- */
 
 public class Bloom {
     static float sMaxScale = 0.2f;

@@ -6,9 +6,6 @@ import android.graphics.Canvas;
 import android.util.AttributeSet;
 import android.view.View;
 
-/**
- * Created by John on 2017/8/26.
- */
 
 public class TreeView  extends View {
     private Tree tree;

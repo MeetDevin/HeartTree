@@ -7,10 +7,6 @@ import android.graphics.Paint;
 import android.graphics.PorterDuff;
 import android.util.Log;
 
-/**
- * Created by John on 2017/8/29.
- */
-
 public class FallingBloom extends Bloom {
     private float xSpeed;
     private float ySpeed;
